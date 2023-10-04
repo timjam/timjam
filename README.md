@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **timjam/timjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Full stack dev with occasional side quests to some other areas in IT
+- Here's a non-comprehensive list of techs and buzzwords I mostly work with:
+  - React, React Native, Tailwind, Typescript, NodeJS, Express, Redux, Zod, Docker, AWS, Jest,
+- Less often, but still sometimes I do something with:
+  -  AI, Machine vision, Matlab, Python, Swift
+-  Continuously trying to learn something new on all those listed and other things too
+-  Currently Github only contains my random hobby projects, which are probably never going to be finished
+-  I dare to ask (stupid) questions, so bare with me
+    
+ [LinkedIn](https://www.linkedin.com/in/timo-m%C3%A4t%C3%A4saho-51a4bb85/)<br/>
+ [Stackoverflow](https://stackoverflow.com/users/256965/zaplec)
